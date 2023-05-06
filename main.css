@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    flex: auto;
+    flex-direction: column;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+ 
